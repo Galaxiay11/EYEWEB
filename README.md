@@ -44,8 +44,6 @@ eyeweb/
 
 │ ├── relatorio_eyeweb.pdf
 
-│ └── backlog_diario_de_bordo.pdf
-
 ├── src/
 
 │ ├── index.html
@@ -102,18 +100,16 @@ git clone https://github.com/Galaxiay11/EYEWEB
 **Passos previstos (a documentar futuramente):**
 
 _Instalar dependências:_
-npm install
+----
 
 _Executar o backend:_
-npm start
-ou
-python app.py
+----
 
 _Criar a base de dados:_
-psql -U postgres -d eyeweb_db -f database/schema.sql
+-----
 
 _Aceder à aplicação:_
-AINDA NAO TEMOS
+----
 
 
 **Requisitos Técnicos**
