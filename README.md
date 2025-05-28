@@ -47,6 +47,7 @@ eyeweb/
 │ └── backlog_diario_de_bordo.pdf
 
 ├── src/
+
 │ ├── index.html
 
 │ ├── index.css
@@ -80,7 +81,7 @@ eyeweb/
 **Esta versão contém apenas a interface gráfica.**
 
 1. Clonar o repositório:
-git clone https://github.com/utilizador/eyeweb.git
+git clone https://github.com/Galaxiay11/EYEWEB
 
 
 2. Aceder à pasta do projeto:
@@ -93,6 +94,8 @@ git clone https://github.com/utilizador/eyeweb.git
        - Linux/macOS: usar xdg-open index.html ou open index.html.
 
 **Não é necessária ligação à internet ou servidor local. Esta versão corre inteiramente no navegador.**
+
+
 
 **Versão Planeada — Integração com Backend e Base de Dados**
 
