@@ -18,19 +18,19 @@ O **EyeWeb** é uma aplicação web desenvolvida no âmbito do curso de CTeSP em
 
 ## Equipa e Responsabilidades
 
-| Ana Rita da Silva Monteiro | Product Owner, lider do projeto, desenvolvimento da interface |
+| Ana Rita da Silva Monteiro | Product Owner, lider do projeto, desenvolvimento da interface | Galaxiay11
 
 
-| José Samuel da Rocha Oliveira | Desenvolvimento do frontend, design gráfico |
+| José Samuel da Rocha Oliveira | Desenvolvimento do frontend, design gráfico | Wodash34
 
 
-| Tiago Filipe Sousa Carvalho | Backend, diagrama ER, base de dados |
+| Tiago Filipe Sousa Carvalho | Backend, diagrama ER, base de dados | Tiago0612
 
 
-| Vanina Kollen | Estruturação da base de dados, backend, relatório técnico |
+| Vanina Kollen | Estruturação da base de dados, backend, relatório técnico | vankol06
 
 
-| Francisco Rafael Carocinho Ribeiro | Funcionalidades, apoio técnico geral |
+| Francisco Rafael Carocinho Ribeiro | Funcionalidades, apoio técnico geral | Xico20230
 
 
 | Emanuel Jorge Seixas Barbosa | Relatório técnico, estrutura da informação |
