@@ -94,29 +94,11 @@ git clone https://github.com/Galaxiay11/EYEWEB
 **Não é necessária ligação à internet ou servidor local. Esta versão corre inteiramente no navegador.**
 
 
-
-**Versão Planeada — Integração com Backend e Base de Dados**
-
-**Passos previstos (a documentar futuramente):**
-
-_Instalar dependências:_
-----
-
-_Executar o backend:_
-----
-
-_Criar a base de dados:_
------
-
-_Aceder à aplicação:_
-----
-
-
 **Requisitos Técnicos**
 
 - Navegador moderno (Chrome, Firefox, Edge)
-- (Futuramente) Node.js ou Python 3
-- (Futuramente) PostgreSQL instalado e configurado
+- Node.js ou Python 3
+- PostgreSQL instalado e configurado
 - Editor de código (Visual Studio Code recomendado)
 
 
