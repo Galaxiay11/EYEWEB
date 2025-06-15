@@ -1,4 +1,6 @@
 # EyeWeb — Simulador de Avaliação de Segurança Digital
+![EYEWEB-LOGOTIPO](https://github.com/user-attachments/assets/409fcb12-19e7-4f64-a9f6-8088e6e7531e)
+
 
 ## Descrição Geral
 
