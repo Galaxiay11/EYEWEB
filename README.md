@@ -41,44 +41,76 @@ O **EyeWeb** é uma aplicação web desenvolvida no âmbito do curso de CTeSP em
 ## Estrutura do Repositório
 EyeWeb/
 ├── database/                 # Arquivos SQL do banco de dados
+
 │   └── eyeweb.sql            # Arquivo fonte SQL (4KB)
+
 │
+
 ├── public/                   # Arquivos acessíveis publicamente
+
 │   ├── css/                  # Folhas de estilo
+
 │   │   ├── about.css         # (2KB)
+
 │   │   ├── admin.css         # (6KB)
+
 │   │   ├── admin_data_base.css # (12KB)
+
 │   │   ├── index.css         # (6KB)
+
 │   │   └── login.css         # (3KB)
+
 │   │
+
 │   ├── js/                   # Arquivos JavaScript
+
 │   │   ├── about.js          # (1KB)
+
 │   │   ├── admin.js          # (2KB)
+
 │   │   ├── admin_data_base.js # (1KB)
+
 │   │   └── index.js          # (6KB)
+
 │   │
 │   ├── about.php             # (4KB)
+
 │   ├── admin.php             # (8KB)
+
 │   ├── admin_data_base.php   # (4KB)
+
 │   ├── editor.php            # (7KB)
+
 │   ├── eliminar.php          # (3KB)
+
 │   ├── index.php             # (11KB)
+
 │   ├── login.php             # (3KB)
+
 │   └── logout.php            # (1KB)
+
 │
+
 ├── logs/                     # Arquivos de log
+
 │   └── log.txt               # Documento de texto (1KB)
+
 │
 ├── README.md                 # Documentação do projeto
-└── LICENSE                   # Licença do projeto
+
+
 
 ---
 
 ## Tecnologias Utilizadas
 
 -Backend: PHP
+
 -Frontend: HTML, CSS, JavaScript
+
+
 -Banco de dados: MySQL (arquivo SQL fornecido)
+
 -Servidor local: WAMP Server (Windows, Apache, MySQL, PHP)
 
 ---
