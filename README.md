@@ -108,7 +108,6 @@ EyeWeb/
 
 -Frontend: HTML, CSS, JavaScript
 
-
 -Banco de dados: MySQL (arquivo SQL fornecido)
 
 -Servidor local: WAMP Server (Windows, Apache, MySQL, PHP)
@@ -117,30 +116,45 @@ EyeWeb/
 
 ## Modo de Utilização
 1. Pré-requisitos:
+   
 -WAMP Server instalado (versão compatível com PHP 7.x/8.x)
+
 -Navegador web moderno (Chrome, Firefox, Edge)
 
 2.Instalação:
+
 -Faça o download do ZIP do repositório
+
 -Extraia o conteúdo para a pasta www do WAMP Server
+
 -Importe o arquivo eyeweb.sql para o MySQL via phpMyAdmin
+
 -Configure as credenciais do banco de dados nos arquivos PHP se necessário
 
+
 3.Execução:
+
 -Inicie o WAMP Server
+
 -Acesse no navegador: http://localhost/EyeWeb/public/
 
 
 **Requisitos Técnicos**
 
 1.Servidor:
+
 -WAMP Server (ou similar como XAMPP, LAMP)
+
 -Apache 2.4+
+
 -PHP 7.4+
+
 -MySQL 5.7+ ou MariaDB 10.3+
 
 2.Cliente:
+
 -Navegador com suporte a HTML5 e CSS3
+
 -Resolução mínima recomendada: 1024x768
 
 
