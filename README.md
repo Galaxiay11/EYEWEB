@@ -201,9 +201,5 @@ EyeWeb is a web-based tool developed by first-year students of the Cybersecurity
 - No data is stored
 - Simple, accessible interface
 
-**How to Use (Current Version):**
-- Clone the repository
-- Open index.html in any modern web browser
-- No server or installation is required
 
 Team Leader: Ana Rita da Silva Monteiro (Product Owner) - Galaxiay11
