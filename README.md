@@ -2,6 +2,12 @@
 ![EYEWEB-LOGOTIPO](https://github.com/user-attachments/assets/409fcb12-19e7-4f64-a9f6-8088e6e7531e)
 
 
+
+
+
+## SITE
+https://eyeweb.42web.io
+
 ## Descrição Geral
 
 O **EyeWeb** é uma aplicação web desenvolvida no âmbito do curso de CTeSP em Cibersegurança (1.º ano), na unidade curricular de Base de Dados. O projeto visa criar uma ferramenta que permita aos utilizadores verificar a segurança de palavras-passe e websites, alertando para riscos e fornecendo sugestões de proteção. O projeto foi coordenado por **Ana Rita da Silva Monteiro**, na função de **Product Owner** e líder de equipa.
@@ -166,7 +172,7 @@ EyeWeb/
 
 -Inicie o WAMP Server
 
--Acesse no navegador: http://localhost/EyeWeb/public/
+-Acesse no navegador: (https://eyeweb.42web.io)
 
 
 **Requisitos Técnicos**
