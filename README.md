@@ -115,7 +115,7 @@ EyeWeb/
 ---
 
 ## Modo de Utilização
-1. Pré-requisitos:
+1.Pré-requisitos:
    
 -WAMP Server instalado (versão compatível com PHP 7.x/8.x)
 
