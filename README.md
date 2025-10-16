@@ -1,4 +1,7 @@
 *EyeWeb Reborn*
+
+
+
 ATUALIZAÇÕES do EyeWeb
 
 
@@ -46,23 +49,31 @@ Requisitos do Sistema
 
 - Navegador moderno (Chrome, Firefox, Edge)  
 - Conexão à Internet  
-- Node.js 18+ instalado (para ambiente local)  
 
 ---
 
 Instalação e Execução
 FALTA
 
+---
+
 Estrutura do Projeto
 FALTA
 
+---
+
 Equipa e Responsabilidades
-Membro	Função Principal
-Vanina Kollen	Relatório final e documentação
-José Samuel	Segurança e encriptação
-Francisco Ribeiro	Gestão de sprints e diagramas UML
-Tiago Carvalho	Integração da IA e backend
-Ana Rita Monteiro	Desenvolvimento do Agente e GitHub
+| Ana Rita da Silva Monteiro | Product Owner, lider do projeto, desenvolvimento da interface, documentação | Galaxiay11
+
+| José Samuel da Rocha Oliveira | Desenvolvimento do frontend, design gráfico, base de dados | Wodash34
+
+| Tiago Filipe Sousa Carvalho | Backend, diagrama ER, base de dados | Tiago0612
+
+| Vanina Kollen | Estruturação da base de dados, backend, relatório técnico | vankol06
+
+| Francisco Rafael Carocinho Ribeiro | Funcionalidades, apoio técnico geral | Xico20230
+
+| Emanuel Jorge Seixas Barbosa | Relatório técnico, estrutura da informação |
 
 
 
