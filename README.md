@@ -10,7 +10,7 @@ https://eyeweb.42web.io
 
 ## Descrição Geral
 
-O **EyeWeb** é uma aplicação web desenvolvida no âmbito do curso de CTeSP em Cibersegurança (1.º ano), na unidade curricular de Base de Dados. O projeto visa criar uma ferramenta que permita aos utilizadores verificar a segurança de palavras-passe e websites, alertando para riscos e fornecendo sugestões de proteção. O projeto foi coordenado por **Ana Rita da Silva Monteiro**, na função de **Product Owner** e líder de equipa.
+O **EyeWeb** é uma aplicação web desenvolvida no âmbito do curso de CTeSP em Cibersegurança. O projeto visa criar uma ferramenta que permita aos utilizadores verificar a segurança de palavras-passe e websites, alertando para riscos e fornecendo sugestões de proteção. O projeto foi coordenado por **Ana Rita da Silva Monteiro**, na função de **Product Owner** e líder de equipa.
 
 ---
 
@@ -39,8 +39,6 @@ O **EyeWeb** é uma aplicação web desenvolvida no âmbito do curso de CTeSP em
 
 | Francisco Rafael Carocinho Ribeiro | Funcionalidades, apoio técnico geral | Xico20230
 
-
-| Emanuel Jorge Seixas Barbosa | Relatório técnico, estrutura da informação |
 
 ---
 
