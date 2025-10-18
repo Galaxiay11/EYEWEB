@@ -74,8 +74,6 @@ Equipa e Responsabilidades
 
 | Francisco Rafael Carocinho Ribeiro | Funcionalidades, apoio técnico geral | Xico20230
 
-| Emanuel Jorge Seixas Barbosa | Relatório técnico, estrutura da informação |
-
 
 
  Melhorias Futuras
