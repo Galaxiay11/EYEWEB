@@ -8,12 +8,12 @@ ATUALIZAÇÕES do EyeWeb
 
  Sobre o Projeto
 
-O **EyeWeb Reborn** é uma versão modernizada e reforçada do projeto **EyeWeb**, focada em proporcionar uma **plataforma de segurança digital completa**, capaz de:
+O EyeWeb Reborn é uma versão atualizada do projeto **EyeWeb**, focada em proporcionar uma plataforma de segurança digital completa, capaz de:
 - Analisar websites e identificar possíveis vulnerabilidades ou riscos (como phishing ou malware);  
 - Verificar a força de palavras-passe e detetar se já foram comprometidas em vazamentos de dados;  
 - Integrar um **Agente Reativo inteligente**, que atua em tempo real para apoiar administradores e utilizadores, fornecendo alertas, recomendações e medidas de proteção.
 
-O objetivo é oferecer uma experiência **intuitiva, acessível e segura**, promovendo a proteção ativa de websites e contas de utilizadores.
+O objetivo é oferecer uma experiência intuitiva, acessível e segura promovendo a proteção ativa de websites e contas de utilizadores.
 
 ---
 
@@ -29,8 +29,7 @@ Análise de Websites
 - Utiliza APIs externas (ex.: *Google Safe Browsing*, *VirusTotal*) para análise de risco.
 
 Agente Reativo Inteligente
-- Atua como assistente de segurança integrado no painel do administrador.  
-- Identifica vulnerabilidades em tempo real (SQL Injection, DDoS, brute force).  
+- Atua como assistente de segurança integrado no painel do administrador.   
 - Sugere ações de defesa e fornece feedback interativo.
 
 ---
