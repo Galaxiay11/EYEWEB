@@ -62,20 +62,6 @@ Esta nova versão  **EyeWeb Reborn**  possui novas funcionalidades, melhorias de
 
 ---
 
-## Mudanças Técnicas (Resumo)
-
-| Área | Versão Anterior | EyeWeb Reborn |
-|------|------------------|----------------|
-| **Segurança de Login** | Apenas autenticação base | MFA + RBAC + logs |
-| **Monitorização** | Manual | Em tempo real via Agente Reativo |
-| **Interface** | Básica | Atualizada com animações e design limpo |
-| **Comunicação** | Sem suporte inteligente | Agente Reativo integrado |
-| **Armazenamento de dados** | Local e simples | PostgreSQL + sanitização e segurança reforçada |
-| **Desempenho** | Moderado | Otimizado com Node.js atualizado |
-| **Privacidade** | Parcial | Total — nenhuma informação pessoal é guardada |
-
----
-
 ## Melhorias Planeadas / Futuras Atualizações
 
 - Suporte a múltiplos idiomas;  
