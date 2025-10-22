@@ -1,88 +1,101 @@
-*EyeWeb Reborn*
+# Atualização do Projeto EyeWeb
 
+## Contexto
 
+Este repositório corresponde à atualização do projeto EyeWeb, desenvolvida no âmbito do 2º Ano de CTeSP em Cibersegurança (ISTEC Porto).
 
-
-ATUALIZAÇÕES do EyeWeb
-
-
- Sobre o Projeto
-
-O EyeWeb Reborn é uma versão atualizada do projeto **EyeWeb**, focada em proporcionar uma plataforma de segurança digital completa, capaz de:
-- Analisar websites e identificar possíveis vulnerabilidades ou riscos (como phishing ou malware);  
-- Verificar a força de palavras-passe e detetar se já foram comprometidas em vazamentos de dados;  
-- Integrar um **Agente Reativo inteligente**, que atua em tempo real para apoiar administradores e utilizadores, fornecendo alertas, recomendações e medidas de proteção.
-
-O objetivo é oferecer uma experiência intuitiva, acessível e segura promovendo a proteção ativa de websites e contas de utilizadores.
+O projeto original **EyeWeb** era uma ferramenta web que analisava palavras-passes, emails, sites e numeros de telemóvel.
+Esta nova versão  **EyeWeb Reborn**  possui novas funcionalidades, melhorias de desempenho e uma integração inteligente de um **Agente Reativo**.
 
 ---
 
-Funcionalidades Principais
+##  Principais Melhorias e Novidades
 
-Verificação de Senhas
-- Analisa a força da senha introduzida.  
-- Verifica se foi exposta em bases de dados comprometidas (usando a API *Have I Been Pwned*).  
-- Fornece alertas e sugestões para reforço da segurança.
+### Integração de um Agente Reativo Inteligente
+- Novo assistente virtual integrado no painel do administrador.  
+- Capaz de responder a perguntas em tempo real (ex.: “O IP foi vazado?”, “A senha é segura?”).  
+- Atua como apoio de segurança contínuo, pois ajuda na deteção de vulnerabilidades e gestão do site.  
+- Implementado com limites de contexto para evitar respostas incorretas ou inseguras.
 
-Análise de Websites
-- Avalia o nível de segurança de sites, identificando certificados inválidos, histórico de ameaças e ligações suspeitas.  
-- Utiliza APIs externas (ex.: *Google Safe Browsing*, *VirusTotal*) para análise de risco.
+### Reforço de Segurança no Painel de Administração
+- Implementação de autenticação em dois fatores (MFA).  
+- Adoção de controlo de permissões por função (RBAC).  
+- Introdução de confirmação dupla para comandos críticos (bloqueio de IPs, alterações de firewall).  
+- Acesso ao painel restrito.  
+- Criação de registos de atividade (logs) seguros e detalhados.
 
-Agente Reativo Inteligente
-- Atua como assistente de segurança integrado no painel do administrador.   
-- Sugere ações de defesa e fornece feedback interativo.
+### Medidas Gerais de Segurança
+- HTTPS obrigatório para todas as comunicações.  
+- Sanitização de inputs e rate limiting para prevenir abusos e injeções de código.  
+- Nenhum dado sensível do utilizador é armazenado, todas as análises são temporárias e seguras.  
+
+### Melhoria de Desempenho e Estabilidade
+- Código otimizado e ambiente de desenvolvimento atualizado.  
+- Melhor integração entre frontend (HTML/CSS) e backend (Node.js + PostgreSQL).  
+- Estrutura modular para facilitar futuras expansões (ex.: app móvel, alertas automáticos).  
+
 
 ---
 
-Tecnologias Utilizadas
+## Estrutura e Tecnologias
 
-- **Frontend:** HTML, CSS  
-- **Backend:** Node.js  
-- **Base de Dados:** PostgreSQL  
-- **APIs:** Have I Been Pwned, Google Safe Browsing, VirusTotal  
-- **Controle de Versão:** Git & GitHub  
-- **Ambiente de Desenvolvimento:** Visual Studio Code  
+| Camada | Tecnologia |
 
----
+|--------|-------------|
 
-Requisitos do Sistema
+| **Frontend** | HTML5, CSS3 |
 
-- Navegador moderno (Chrome, Firefox, Edge)  
-- Conexão à Internet  
+| **Backend** | Node.js |
+
+| **Base de Dados** | PostgreSQL |
+
+| **Ferramentas** | VS Code, GitHub, WhatsApp (comunicação interna) |
 
 ---
 
-Instalação e Execução
-FALTA
+## Testes Realizados
+
+- **Testes Unitários** – verificação de componentes individuais.  
+- **Testes de Integração** – funcionamento conjunto de módulos.  
+- **Testes de Usabilidade** – realizados com utilizadores para avaliar a facilidade de uso.  
+- **Testes de Segurança** – deteção e correção de vulnerabilidades (ex.: SQL Injection, brute force).  
 
 ---
 
-Estrutura do Projeto
-FALTA
+## Mudanças Técnicas (Resumo)
+
+| Área | Versão Anterior | EyeWeb Reborn |
+|------|------------------|----------------|
+| **Segurança de Login** | Apenas autenticação base | MFA + RBAC + logs |
+| **Monitorização** | Manual | Em tempo real via Agente Reativo |
+| **Interface** | Básica | Atualizada com animações e design limpo |
+| **Comunicação** | Sem suporte inteligente | Agente Reativo integrado |
+| **Armazenamento de dados** | Local e simples | PostgreSQL + sanitização e segurança reforçada |
+| **Desempenho** | Moderado | Otimizado com Node.js atualizado |
+| **Privacidade** | Parcial | Total — nenhuma informação pessoal é guardada |
 
 ---
 
-Equipa e Responsabilidades
-| Ana Rita da Silva Monteiro | Product Owner, lider do projeto, desenvolvimento da interface, documentação | Galaxiay11
+## Melhorias Planeadas / Futuras Atualizações
 
-| José Samuel da Rocha Oliveira | Desenvolvimento do frontend, design gráfico, base de dados | Wodash34
+- Suporte a múltiplos idiomas;  
+- Aplicação móvel (Android/iOS);  
+- Alertas automáticos por e-mail;  
+- Expansão de tipos de análise de segurança (ex.: headers, reputação de IPs, domínios);  
+- Melhorar a inteligência contextual do Agente Reativo.
 
-| Tiago Filipe Sousa Carvalho | Backend, diagrama ER, base de dados | Tiago0612
+---
 
-| Vanina Kollen | Estruturação da base de dados, backend, relatório técnico | vankol06
+## Contexto Académico
 
-| Francisco Rafael Carocinho Ribeiro | Funcionalidades, apoio técnico geral | Xico20230
+> Este projeto foi desenvolvido no âmbito académico do curso **CTeSP de Cibersegurança** do **ISTEC Porto**, em 2025.  
+> É uma evolução direta do **EyeWeb**, com foco em modernização tecnológica, melhoria de segurança e integração de inteligência artificial reativa.
 
+---
 
+## Licença
 
- Melhorias Futuras
-Tradução da plataforma para múltiplos idiomas 
-Aplicação móvel 
-Sistema de alertas por email 
-Novos tipos de análise de segurança 
-
-Licença
-Este projeto foi desenvolvido para fins académicos no âmbito da unidade curricular Projetos III – Laboratório de Software para Cibersegurança.
-Distribuição ou uso comercial não autorizado sem consentimento dos autores.
+Este projeto é de caráter académico e educativo.  
+O código pode ser reutilizado e adaptado com referência à equipa desenvolvedora e ao ISTEC Porto.
 
 
