@@ -5,8 +5,6 @@
 
 
 
-## SITE
-https://eyeweb.42web.io
 
 ## Descrição Geral
 
