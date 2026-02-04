@@ -1,7 +1,6 @@
 # Atualização do Projeto EyeWeb
 ## [ PORTUGUÊS - PT ]
 
-<div align="center">
 
 # EYEWEB REBORN
 
