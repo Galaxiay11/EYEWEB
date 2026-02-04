@@ -6,44 +6,43 @@
 # EYEWEB REBORN
 
 **PROJETO FINAL DE CIBERSEGURANÇA | 2º ANO CTESP**
+</div>
 *ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto*
 
-`[ v2.0-stable ]` `[ Cybersecurity ]` `[ PHP/Python/JS ]`
 
-</div>
 
 ---
 
 ### SOBRE O PROJETO
 
 > **O EyeWeb Reborn é uma atualização do projeto EyeWeb.**
-> Foi desenvolvido para elevar a gestão de dados e proteção digital, oferencendo uma solução robusta para análise de websites, auditoria de credenciais e deteção de fugas de informação.
-
+Foi desenvolvido para elevar a gestão de dados e proteção digital, oferencendo uma solução robusta para análise de websites, auditoria de credenciais e deteção de fugas de informação.
 O sistema integra **Agentes Reativos** (sistemas inteligentes de resposta) que auxiliam na minimizção de riscos em tempo real, servindo tanto o utilizador comum quanto a administração do sistema.
 
 ---
 
 ### FUNCIONALIDADES DO SISTEMA
 
-#### MÓDULO DE UTILIZADOR 
+#### MÓDULO DO UTILIZADOR 
 
 * **Análise de Websites**
-    * Verificação em tempo real de *phishing*, *malware* e ligações suspeitas via APIs de segurança e IA.
+    * Verificação em tempo real de *phishing*, *malware* e ligações suspeitas.
 * **Auditoria de Credenciais**
-    * **Palavras-passe:** Avaliação da qualidade e verificação de exposição em bases de dados de *leaks* (implementação de **K-Anonymity** e **Hashing**).
+    * **Palavras-passe:** Auditoria de palavras-passe com avaliação de força, hashing e verificação segura através de
+K-Anonymity.
     * **Identidade:** Verificação de E-mails e Números de Telemóvel em bases de dados comprometidas.
 * **Agente Reativo (Assistente Virtual)**
     * Interface de chat automatizada para orientação de segurança e suporte à navegação.
 
-#### MÓDULO DE ADMINISTRAÇÃO 
+#### MÓDULO DO ADMINISTRAÇÃO 
 
-* **Painel de Controlo (Dashboard)**
+* **Painel de Controlo**
     * Visualização centralizada de logs, tráfego e métricas de segurança.
-* **Agente de Segurança (Watchdog)**
+* **Agente de Segurança**
     * Monitorização ativa de ligações, bloqueio de tentativas de intrusão e alertas de vulnerabilidades críticas (`SQL Injection`, `DDoS`, `Brute Force`).
-* **Autenticação Reforçada (Security Core)**
-    * Implementação de **MFA (Multi-Factor Authentication)** via script Python proprietário.
-    * Controlo de Acesso Baseado em Funções (**RBAC**).
+* **Autenticação Reforçada**
+    * Implementação de **MFA (Multi-Factor Authentication)**.
+    * Controlo de Acesso Baseado em Funções.
 
 ---
 
