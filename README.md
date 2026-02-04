@@ -7,7 +7,7 @@
 **PROJETO FINAL DE CIBERSEGURANÇA | 2º ANO CTESP**
 ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto
 
-<div></div>
+</div>
 
 ---
 
@@ -83,19 +83,17 @@ Ana Rita da Silva Monteiro - [ 2024041 ]
 
 Vanina Kollen - [ 2024056 ]
 
+
 Orientação Docente: Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
 -------------
 
 ## [ ENGLISH - EN ]
 
-<div align="center">
 
 # EYEWEB REBORN
 
 **FINAL CYBERSECURITY PROJECT | 2ND YEAR CTESP**
 *ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto*
-
-`[ v2.0-stable ]` `[ Cybersecurity ]` `[ PHP/Python/JS ]`
 
 </div>
 
@@ -103,34 +101,34 @@ Orientação Docente: Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
 
 ### ABOUT THE PROJECT
 
-> **EyeWeb Reborn is the evolution of the EyeWeb security architecture.**
-> Designed to elevate digital data management and protection, this platform offers a robust solution for website analysis, credential auditing, and data leak detection.
+> **EyeWeb Reborn is an updated version of the EyeWeb project.**
 
-The system integrates **Reactive Agents** (intelligent response systems) that assist in real-time risk mitigation, serving both the standard user and system administration.
+It was developed to enhance data management and digital protection, providing a robust solution for website analysis, credential auditing, and data leak detection.
+The system integrates **Reactive Agents** (intelligent response systems) that help minimize risks in real time, serving both regular users and system administrators.
 
 ---
 
 ### SYSTEM FEATURES
 
-#### :: USER MODULE (CLIENT)
+####USER MODULE
 
-* **Website Analysis (URL Intelligence)**
-    * Real-time verification of *phishing*, *malware*, and suspicious links via security APIs and AI.
-* **Credential Audit (Credential Guard)**
-    * **Passwords:** Entropy evaluation and exposure check in leak databases (implementing **K-Anonymity** and **Hashing**).
+* **Website Analysis**
+    * Real-time verification of *phishing*, *malware*, and suspicious links.
+* **Credential Audit**
+    * **Passwords:** Password auditing with strength evaluation, hashing, and secure verification through **K-Anonymity**.
     * **Identity:** Cross-reference verification of Emails and Phone Numbers in compromised databases.
-* **Reactive Agent (Virtual Assistant)**
+* **Reactive Agent**
     * Automated chat interface for security guidance and navigation support.
 
-#### :: ADMIN MODULE (ROOT)
+#### ADMIN MODULE
 
-* **Control Panel (Dashboard)**
+* **Control Panel**
     * Centralized visualization of logs, traffic, and security metrics.
-* **Security Agent (Watchdog)**
+* **Security Agent**
     * Active monitoring of connections, intrusion attempt blocking, and alerts for critical vulnerabilities (`SQL Injection`, `DDoS`, `Brute Force`).
-* **Enhanced Authentication (Security Core)**
-    * **MFA (Multi-Factor Authentication)** implementation via proprietary Python script.
-    * Role-Based Access Control (**RBAC**).
+* **Enhanced Authentication**
+    * **MFA (Multi-Factor Authentication)** implementation.
+    * Role-Based Access Control.
 
 ---
 
