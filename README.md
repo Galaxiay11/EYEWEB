@@ -6,7 +6,6 @@
 # EYEWEB REBORN
 
 **PROJETO FINAL DE CIBERSEGURANÇA | 2º ANO CTESP**
-<div align="center">
 ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto
 
 
@@ -15,7 +14,10 @@ ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto
 
 ### SOBRE O PROJETO
 
-> **O EyeWeb Reborn é uma atualização do projeto EyeWeb.** <
+> **O EyeWeb Reborn é uma atualização do projeto EyeWeb.**
+
+
+
 Foi desenvolvido para elevar a gestão de dados e proteção digital, oferencendo uma solução robusta para análise de websites, auditoria de credenciais e deteção de fugas de informação.
 O sistema integra **Agentes Reativos** (sistemas inteligentes de resposta) que auxiliam na minimizção de riscos em tempo real, servindo tanto o utilizador comum quanto a administração do sistema.
 
