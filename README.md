@@ -5,7 +5,7 @@
 # EYEWEB REBORN
 
 **PROJETO FINAL DE CIBERSEGURANÇA | 2º ANO CTESP**
-ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto
+*| ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto*
 
 </div>
 
@@ -83,7 +83,7 @@ Ana Rita da Silva Monteiro - [ 2024041 ]
 
 Vanina Kollen - [ 2024056 ]
 
-Orientação Docente: Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
+**Orientação Docente:** Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
 
 
 
@@ -97,7 +97,7 @@ Orientação Docente: Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
 # EYEWEB REBORN
 
 **FINAL CYBERSECURITY PROJECT | 2ND YEAR CTESP**
-*ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto*
+*| ISTEC PORTO - Instituto Superior de Tecnologias Avançadas do Porto*
 
 </div>
 
@@ -172,4 +172,4 @@ Ana Rita da Silva Monteiro - [ 2024041 ]
 
 Vanina Kollen - [ 2024056 ]
 
-Faculty Supervision: Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
+**Faculty Supervision:** Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
