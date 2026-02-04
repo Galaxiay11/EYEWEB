@@ -83,8 +83,12 @@ Ana Rita da Silva Monteiro - [ 2024041 ]
 
 Vanina Kollen - [ 2024056 ]
 
-
 Orientação Docente: Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
+
+
+
+
+
 -------------
 
 ## [ ENGLISH - EN ]
