@@ -16,26 +16,26 @@
 
 ### SOBRE O PROJETO
 
-> **O EyeWeb Reborn é a evolução da arquitetura de segurança EyeWeb.**
-> Desenvolvido para elevar a gestão de dados e proteção digital, esta plataforma oferece uma solução robusta para análise de websites, auditoria de credenciais e deteção de fugas de informação.
+> **O EyeWeb Reborn é uma atualização do projeto EyeWeb.**
+> Foi desenvolvido para elevar a gestão de dados e proteção digital, oferencendo uma solução robusta para análise de websites, auditoria de credenciais e deteção de fugas de informação.
 
-O sistema integra **Agentes Reativos** (sistemas inteligentes de resposta) que auxiliam na mitigação de riscos em tempo real, servindo tanto o utilizador comum quanto a administração do sistema.
+O sistema integra **Agentes Reativos** (sistemas inteligentes de resposta) que auxiliam na minimizção de riscos em tempo real, servindo tanto o utilizador comum quanto a administração do sistema.
 
 ---
 
 ### FUNCIONALIDADES DO SISTEMA
 
-#### :: MÓDULO DE UTILIZADOR (CLIENT)
+#### MÓDULO DE UTILIZADOR 
 
-* **Análise de Websites (URL Intelligence)**
+* **Análise de Websites**
     * Verificação em tempo real de *phishing*, *malware* e ligações suspeitas via APIs de segurança e IA.
-* **Auditoria de Credenciais (Credential Guard)**
-    * **Palavras-passe:** Avaliação de entropia e verificação de exposição em bases de dados de *leaks* (implementação de **K-Anonymity** e **Hashing**).
-    * **Identidade:** Verificação cruzada de E-mails e Números de Telemóvel em bases de dados comprometidas.
+* **Auditoria de Credenciais**
+    * **Palavras-passe:** Avaliação da qualidade e verificação de exposição em bases de dados de *leaks* (implementação de **K-Anonymity** e **Hashing**).
+    * **Identidade:** Verificação de E-mails e Números de Telemóvel em bases de dados comprometidas.
 * **Agente Reativo (Assistente Virtual)**
     * Interface de chat automatizada para orientação de segurança e suporte à navegação.
 
-#### :: MÓDULO DE ADMINISTRAÇÃO (ROOT)
+#### MÓDULO DE ADMINISTRAÇÃO 
 
 * **Painel de Controlo (Dashboard)**
     * Visualização centralizada de logs, tráfego e métricas de segurança.
