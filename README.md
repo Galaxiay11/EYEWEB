@@ -174,4 +174,4 @@ Vanina Kollen - [ 2024056 ]
 
 **Faculty Supervision:** Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Status: Final Project](https://img.shields.io/badge/Status-Final_Project-green)
+
