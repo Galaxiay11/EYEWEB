@@ -155,7 +155,7 @@ Data privacy and integrity are ensured through the following implementations:
 | **Backend** | Python (FastAPI), Node.js |
 | **Database** | PostgreSQL (Housed on Supabase) |
 | **Scripting** | Python 3 (Agent Logic & Token Generation) |
-| **Integrações** | Hugging Face API, External Security APIs |
+| **Integrations** | Hugging Face API, External Security APIs |
 
 ---
 
