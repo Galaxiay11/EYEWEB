@@ -1,8 +1,6 @@
 
 # Atualização do Projeto EyeWeb
 ## [ PORTUGUÊS - PT ]
-# CÓDIGO
-
 
 # EYEWEB REBORN
 
