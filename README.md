@@ -17,8 +17,8 @@
 
 
 
-Foi desenvolvido para elevar a gestão de dados e proteção digital, oferencendo uma solução robusta para análise de websites, auditoria de credenciais e deteção de fugas de informação.
-O sistema integra **Agentes Reativos** (sistemas inteligentes de resposta) que auxiliam na minimizção de riscos em tempo real, servindo tanto o utilizador comum quanto a administração do sistema.
+Foi desenvolvido para elevar a gestão de dados e proteção digital, oferecendo uma solução robusta para análise de websites, auditoria de credenciais e deteção de fugas de informação.
+O sistema integra **Agentes Reativos** (sistemas inteligentes de resposta) que auxiliam na minimização de riscos em tempo real, servindo tanto o utilizador comum quanto a administração do sistema.
 
 ---
 
@@ -62,11 +62,11 @@ A privacidade e integridade dos dados são asseguradas pelas seguintes implement
 
 | Camada | Tecnologias |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | PHP, Node.js |
-| **Database** | MySQL (SQL) |
-| **Scripting** | Python 3 (Token Generation) |
-| **Integrações** | External Security APIs |
+| **Frontend** | HTML5, CSS3, JavaScript (Next.js / React) |
+| **Backend** | Python (FastAPI), Node.js |
+| **Database** | PostgreSQL (Housed on Supabase) |
+| **Scripting** | Python 3 (Agent Logic & Token Generation) |
+| **Integrações** | Hugging Face API, External Security APIs |
 
 ---
 
@@ -151,11 +151,11 @@ Data privacy and integrity are ensured through the following implementations:
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | PHP, Node.js |
-| **Database** | MySQL (SQL) |
-| **Scripting** | Python 3 (Token Generation) |
-| **Integrations** | External Security APIs |
+| **Frontend** | HTML5, CSS3, JavaScript (Next.js / React) |
+| **Backend** | Python (FastAPI), Node.js |
+| **Database** | PostgreSQL (Housed on Supabase) |
+| **Scripting** | Python 3 (Agent Logic & Token Generation) |
+| **Integrações** | Hugging Face API, External Security APIs |
 
 ---
 
@@ -173,3 +173,5 @@ Ana Rita da Silva Monteiro - [ 2024041 ]
 Vanina Kollen - [ 2024056 ]
 
 **Faculty Supervision:** Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Status: Final Project](https://img.shields.io/badge/Status-Final_Project-green)
