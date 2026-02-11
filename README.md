@@ -29,7 +29,7 @@ O sistema integra **Agentes Reativos** (sistemas inteligentes de resposta) que a
 * **Análise de Websites**
     * Verificação em tempo real de *phishing*, *malware* e ligações suspeitas.
 * **Auditoria de Credenciais**
-    * **Palavras-passe:** Auditoria de palavras-passe com avaliação de força, hashing e verificação segura através de
+    * **Palavras-passe:** Auditoria de palavras-passe com avaliação de força, *hashing* e verificação segura através de
 K-Anonymity.
     * **Identidade:** Verificação de E-mails e Números de Telemóvel em bases de dados comprometidas.
 * **Agente Reativo (Assistente Virtual)**
@@ -117,7 +117,7 @@ The system integrates **Reactive Agents** (intelligent response systems) that he
 ####USER MODULE
 
 * **Website Analysis**
-    * Real-time verification of *phishing*, *malware*, and suspicious links.
+    * Real-time verification of phishing, malware, and suspicious links.
 * **Credential Audit**
     * **Passwords:** Password auditing with strength evaluation, hashing, and secure verification through **K-Anonymity**.
     * **Identity:** Cross-reference verification of Emails and Phone Numbers in compromised databases.
