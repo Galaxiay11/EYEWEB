@@ -73,15 +73,15 @@ A privacidade e integridade dos dados são asseguradas pelas seguintes implement
 ### AUTORES
 Desenvolvido por:
 
-Francisco Rafael Carocinho Ribeiro - [ 2024123 ]
+Francisco Rafael Carocinho Ribeiro - Xico20230
 
-José Samuel da Rocha Oliveira - [ 2024172 ]
+José Samuel da Rocha Oliveira - Sam-Ciber-Dev
 
-Tiago Filipe Sousa Carvalho - [ 2024180 ]
+Tiago Filipe Sousa Carvalho - Tiago0612
 
 Ana Rita da Silva Monteiro - Galaxiay11
 
-Vanina Kollen - [ 2024056 ]
+Vanina Kollen - vankol06
 
 **Orientação Docente:** Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
 
@@ -162,15 +162,15 @@ Data privacy and integrity are ensured through the following implementations:
 ### AUTHORS
 Developed by:
 
-Francisco Rafael Carocinho Ribeiro - [ 2024123 ]
+Francisco Rafael Carocinho Ribeiro - Xico20230
 
-José Samuel da Rocha Oliveira - [ 2024172 ]
+José Samuel da Rocha Oliveira - Sam-Ciber-Dev
 
-Tiago Filipe Sousa Carvalho - [ 2024180 ]
+Tiago Filipe Sousa Carvalho - Tiago0612
 
 Ana Rita da Silva Monteiro - Galaxiay11
 
-Vanina Kollen - [ 2024056 ]
+Vanina Kollen - vankol06
 
 **Faculty Supervision:** Hélder Pinto, Vitor Santos, Vitor Rocha, Ricardo Moura.
 
