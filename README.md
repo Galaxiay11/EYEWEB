@@ -79,7 +79,7 @@ José Samuel da Rocha Oliveira - [ 2024172 ]
 
 Tiago Filipe Sousa Carvalho - [ 2024180 ]
 
-Ana Rita da Silva Monteiro - [ 2024041 ]
+Ana Rita da Silva Monteiro - Galaxiay11
 
 Vanina Kollen - [ 2024056 ]
 
@@ -168,7 +168,7 @@ José Samuel da Rocha Oliveira - [ 2024172 ]
 
 Tiago Filipe Sousa Carvalho - [ 2024180 ]
 
-Ana Rita da Silva Monteiro - [ 2024041 ]
+Ana Rita da Silva Monteiro - Galaxiay11
 
 Vanina Kollen - [ 2024056 ]
 
